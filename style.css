@@ -29,7 +29,8 @@ body{
     cursor: pointer;
     filter: invert(1);
 }
-.app{
+.app
+{
     background: #fff;
     width: 90%;
     max-width: 600px;
