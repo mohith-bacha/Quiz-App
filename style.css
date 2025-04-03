@@ -23,7 +23,8 @@ body
     display: block; 
     width: fit-content; 
 }
-.github{
+.github
+{
     width: 45px;
     height: 45px;
     position: absolute;
